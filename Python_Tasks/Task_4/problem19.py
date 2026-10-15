@@ -1,4 +1,4 @@
-# Problem 18: Collections.Counter()
+# Problem 19: Collections.Counter()
 # HackerRank Link: https://www.hackerrank.com/challenges/collections-counter/problem
 
 from collections import Counter
