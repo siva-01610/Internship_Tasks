@@ -1,4 +1,4 @@
-# Problem 1: Arithmetic Operators
+# Problem 2: Arithmetic Operators
 # HackerRank Link: https://www.hackerrank.com/challenges/python-arithmetic-operators/problem
 
 if __name__ == '__main__':
